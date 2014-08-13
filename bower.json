@@ -1,0 +1,21 @@
+{
+  "name": "steganography.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jvverde/steganography.js",
+  "authors": [
+    "Isidro Vila Verde <jvverde@gmail.com>"
+  ],
+  "description": "a javascript steganography module created by Peter Eigenschink",
+  "main": "src/steganography.js",
+  "keywords": [
+    "steganography"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

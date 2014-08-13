@@ -6,7 +6,7 @@ Behind the scenes steganography.js uses an algorithm to convert the given messag
 To decode a message from a given image, a similiar algorithm is applied on the imagedata.
 
 ## How to  install
-bower install steganography
+    bower install steganography
 
 
 ## How to use it
